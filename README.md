@@ -1,7 +1,7 @@
-SQL
+MS-SQL Tweaks
 ===
 
-SQL Server Configuration, and some SQL scripts for data manipulations could be found here for the purpose of data processing automation.
+MS-SQL Server Administration can be tricky, some SQL scripts tweaks and tips are available for data processing automation.
 
 References:
 http://blogs.lessthandot.com/index.php/DataMgmt/DataDesign/the-ten-most-asked-sql-server-questions--1#2
